@@ -1,0 +1,58 @@
+
+
+(TOP (SBARQ (WHNP (WHNP (WDT Which)) (PP^WHNP (IN of) (NP^PP^WHNP (DT these)))) (SQ (VP^SQ (VBP serve) (NP^VP^SQ (NN dinner))))) (PUNC ?))
+(TOP (SBARQ (WHNP (WDT Which) (NNS ones)) (SQ (VP^SQ (VBP stop) (PP^VP^SQ (IN in) (NP^PP^VP (NNP Nashville)))))) (PUNC ?))
+
+(TOP (SBARQ (WHNP (WHNP (WDT What) (NNS flights))) (SQ (VBP do) (NP^SQ (PRP you)) (VP^SQ (VB have) (PP^VP^SQ (IN from) (NP^PP^VP (NNP Ontario)))))) (PUNC ?))
+(TOP (SBARQ (WHADVP (WRB <unk>)) (SQ (VBP <unk>) (NP^SQ (DT this) (NN flight)) (VP^SQ (VB stop)))) (PUNC ?))
+(TOP (SBARQ (WHNP (WHNP (WDT What) (NN type)) (PP^WHNP (IN of) (NP^PP^WHNP (NN aircraft)))) (SQ (VBZ is) (NP^SQ (NP^NP^SQ (NNP <unk>) (POS 's)) (NN flight) (CD two) (SYM <unk>) (CD two)))) (PUNC ?))
+(TOP (SQ (VBZ Does) (NP^SQ (DT the) (JJ other) (NNP American) (NN flight))) (PUNC ?))
+
+
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (NN Flight)) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP Long) (NNP Beach))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP Columbus))) (PP^NP^FRAG (IN on) (NP^PP^NP (CD twenty) (RB <unk>))))) (PUNC .))
+(TOP (SBARQ (WHNP (WDT Which) (NNS ones)) (SQ (VP^SQ (VBP leave) (PP^VP^SQ (IN in) (NP^PP^VP (DT the) (NN morning)))))) (PUNC ?))
+(TOP (SBARQ (WHNP (WHNP (WDT Which)) (PP^WHNP (IN of) (NP^PP^WHNP (DT these) (NNS flights)))) (SQ (VP^SQ (VBP serve) (NP^VP^SQ (NN dinner))))) (PUNC ?))
+(TOP (SBARQ (WHNP (WDT Which)) (SQ (VP^SQ (VBZ is) (ADJP (JJ last))))) (PUNC ?))
+
+(TOP (SBARQ (WHNP (WDT Which) (NNS flights)) (SQ (VP^SQ (VBP serve) (ADJP (JJ <unk>))))) (PUNC ?))
+(TOP (SBARQ (WHNP (WDT What) (NN airline)) (SQ (VP^SQ (VBP <unk>) (PP^VP^SQ (IN <unk>) (NP^PP^VP (CD <unk>) (NNS flights))) (PP^VP^SQ (IN between) (NP^PP^VP (NNP Denver))) (NP^VP^SQ (CC and) (NNP San) (NNP Francisco))))) (PUNC ?))
+(TOP (S^TOP (VP^S^TOP (VB List) (NP^VP^S (NP^NP^VP (DT all) (NNS flights)) (PP^NP^VP (IN from) (NP^PP^NP (NNP Burbank))) (PP^NP^VP (TO to) (NP^PP^NP (NNP Denver)))))) (PUNC .))
+(TOP (SQ (VBP <unk>) (NP^SQ (NP^NP^SQ (EX there))) (NP^SQ (NP^NP^SQ (DT any) (NNS stopovers)) (PP^NP^SQ (IN for) (NP^PP^NP (NNP Delta))) (CD one) (CD seven) (CD three) (CD nine))) (PUNC ?))
+
+
+(TOP (SBARQ (WHNP (WHNP (WDT What) (NNS flights))) (SQ (VBP are) (NP^SQ (NP^NP^SQ (EX there))) (PP^SQ (IN from) (NP^PP^SQ (NNP Houston))) (PP^SQ (TO to) (NP^PP^SQ (NNP Dallas))))) (PUNC ?))
+(TOP (SBARQ (WHNP (WHNP (WDT What) (NNS flights))) (SQ (VBP are) (NP^SQ (NP^NP^SQ (EX there))) (PP^SQ (IN from) (NP^PP^SQ (NNP Memphis))) (PP^SQ (TO to) (NP^PP^SQ (NNP Las) (NNP Vegas))))) (PUNC ?))
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (NNS Flights)) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP Cleveland))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP Miami))))) (PUNC .))
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (NNS Flights)) (PP^NP^FRAG (IN on) (NP^PP^NP (NNP Sunday))) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP Tampa))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP Charlotte))))) (PUNC .))
+
+(TOP (NP^TOP (NP^NP^TOP (NNS Flights)) (VP^NP^TOP (VBG arriving) (PP^VP^NP (IN in) (NP^PP^VP (NNP Las) (NNP Vegas))) (PP^VP^NP (IN from) (NP^PP^VP (NP^NP^PP (NNP Memphis)) (CC and) (NP^NP^PP (NNP New) (NNP York) (NNP City)))) (PP^VP^NP (IN on) (NP^PP^VP (NNP Sunday))))) (PUNC .))
+(TOP (S^TOP (VP^S^TOP (VB <unk>) (NP^VP^S (NP^NP^VP (NNS flights)) (VP^NP^VP (VBG arriving) (PP^VP^NP (IN <unk>) (NP^PP^VP (CD thirty) (NNS minutes))) (PP^VP^NP (IN of) (NP^PP^VP (NNP <unk>) (JJ other))))))) (PUNC .))
+(TOP (S^TOP (VP^S^TOP (VB Show) (NP^VP^S (PRP me)) (NP^VP^S (DT the) (NN fare)))) (PUNC .))
+
+
+(TOP (FRAG (WHNP (WHNP (WDT What) (NNS flights)) (PP^WHNP (IN from) (NP^PP^WHNP (NNP Kansas) (NNP City))) (PP^WHNP (TO to) (NP^PP^WHNP (NNP Denver))))) (PUNC .))
+(TOP (FRAG (WHNP (WDT What) (NNS flights)) (PP^FRAG (IN from) (NP^PP^FRAG (NP^NP^PP (NNP Washington)) (NP^NP^PP (NNP D) (NNP C)))) (PP^FRAG (TO to) (NP^PP^FRAG (NNP Toronto)))) (PUNC .))
+
+(TOP (FRAG (WHNP (WHNP (WDT What) (NNS flights)) (PP^WHNP (IN from) (NP^PP^WHNP (NNP Montreal))) (PP^WHNP (TO to) (NP^PP^WHNP (NNP Las) (NNP Vegas))) (PP^WHNP (IN on) (NP^PP^WHNP (NNP Saturday))))) (PUNC .))
+(TOP (SBARQ (WHNP (WP What)) (SQ (VBZ is) (NP^SQ (DT the) (NN price)))) (PUNC ?))
+
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (NNS Flights)) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP Cleveland))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP Kansas) (NNP City))))) (PUNC .))
+(TOP (FRAG (NP^FRAG (NN Price)) (PP^FRAG (IN from) (NP^PP^FRAG (NNP Cleveland))) (PP^FRAG (TO to) (NP^PP^FRAG (NNP Kansas) (NNP City))) (NP^FRAG (JJ round) (NN trip))) (PUNC .))
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (NNS Flights)) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP Ontario))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP <unk>))))) (PUNC .))
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (JJ First) (NN class) (JJ round) (NN trip) (NN airfare)) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP Indianapolis))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP Memphis))))) (PUNC .))
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (NNS Flights)) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP Boston))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP Pittsburgh))))) (PUNC .))
+
+(TOP (SQ (VBZ <unk>) (NP^SQ (NN code) (NNP A) (SYM P) (SYM <unk>) (CD five) (CD seven))) (PUNC .))
+(TOP (FRAG (NP^FRAG (NP^NP^FRAG (NNS Flights)) (PP^NP^FRAG (IN from) (NP^PP^NP (NNP New) (NNP York))) (PP^NP^FRAG (TO to) (NP^PP^NP (NNP Miami))))) (PUNC .))
+(TOP (FRAG (VP^FRAG (VBG Departing) (PP^VP^FRAG (IN before) (NP^PP^VP (CD ten) (RB a.m))))) (PUNC .))
+(TOP (FRAG (NP^FRAG (JJS Cheapest) (NN fare))) (PUNC .))
+(TOP (FRAG (VP^FRAG (VBG Departing) (PP^VP^FRAG (IN after) (NP^PP^VP (CD six) (RB p.m))))) (PUNC .))
+
+(TOP (S^TOP (VP^S^TOP (VB Show) (NP^VP^S (PRP me)) (NP^VP^S (NN ground) (NN transportation) (PP^NP^VP (IN in) (NP^PP^NP (NNP Westchester) (NNP County)))))) (PUNC .))
+(TOP (FRAG (NP^FRAG (NNP Newark)) (PP^FRAG (TO to) (NP^PP^FRAG (NNP Cleveland)))) (PUNC .))
+
+
+(TOP (S^TOP (VP^S^TOP (VB Show) (NP^VP^S (PRP me)) (NP^VP^S (DT the) (NNS fares)))) (PUNC .))
+(TOP (S^TOP (VP^S^TOP (VB Show) (NP^VP^S (PRP me)) (NP^VP^S (NP^NP^VP (DT the) (NNS fares)) (PP^NP^VP (IN from) (NP^PP^NP (NNP Dallas))) (PP^NP^VP (TO to) (NP^PP^NP (NNP San) (NNP Francisco)))))) (PUNC .))
+(TOP (S^TOP (VP^S^TOP (VB Show) (NP^VP^S (PRP me)) (NP^VP^S (NP^NP^VP (DT the) (NNS flights)) (PP^NP^VP (IN from) (NP^PP^NP (NNP San) (NNP Diego))) (PP^NP^VP (TO to) (NP^PP^NP (NNP San) (NNP Francisco))) (PP^NP^VP (IN on) (NP^PP^NP (NNP Southwest) (NNP Airlines)))))) (PUNC .))
+(TOP (S^TOP (VP^S^TOP (VB Show) (NP^VP^S (PRP me)) (NP^VP^S (DT the) (NNS <unk>)))) (PUNC .))
